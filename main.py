@@ -1,3 +1,4 @@
+test
 # The original game scenario was formulated in 1994 by Kaushik Basu and goes as follows:
 # An airline loses two suitcases belonging to two different travelers. Both suitcases happen to be identical and contain identical antiques.
 # An airline manager tasked to settle the claims of both travelers explains that the airline is liable for a maximum of $100 per suitcase
