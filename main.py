@@ -24,7 +24,9 @@ def get_first_player_choice(current_round, your_score, enemy_score, your_choices
 
 
 def get_second_player_choice(current_round, your_score, enemy_score, your_choices, enemy_choices):
-    
+    if current_round == 0 or 1 or 2:
+        
+        return 60
 
 
 # Ctrl + / to remove comments
