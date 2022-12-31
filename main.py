@@ -36,7 +36,7 @@ def get_second_player_choice(current_round, your_score, enemy_score, your_choice
 
 # 2. constant bot
 # def get_first_player_choice(current_round, your_score, enemy_score, your_choices, enemy_choices):
-#     return 60
+#     return 100
 
 
 # 3. very nice bot
