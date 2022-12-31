@@ -1,4 +1,3 @@
-test
 # The original game scenario was formulated in 1994 by Kaushik Basu and goes as follows:
 # An airline loses two suitcases belonging to two different travelers. Both suitcases happen to be identical and contain identical antiques.
 # An airline manager tasked to settle the claims of both travelers explains that the airline is liable for a maximum of $100 per suitcase
@@ -25,7 +24,7 @@ def get_first_player_choice(current_round, your_score, enemy_score, your_choices
 
 
 def get_second_player_choice(current_round, your_score, enemy_score, your_choices, enemy_choices):
-    return 60
+    
 
 
 # Ctrl + / to remove comments
